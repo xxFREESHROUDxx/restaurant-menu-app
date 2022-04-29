@@ -1,6 +1,7 @@
 # Restaurant Menu App
 
 This project is about a restaurant menu app
+* Couldn't complete how to check the previous order history.
 
 ## Getting Started with Create React App
 
