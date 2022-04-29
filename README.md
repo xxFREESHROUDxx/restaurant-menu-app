@@ -1,8 +1,8 @@
-## Restaurant Menu App
+# Restaurant Menu App
 
-This project is about a restaurant menu app.
+This project is about a restaurant menu app
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
